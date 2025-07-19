@@ -1,20 +1,21 @@
-## Hi, I’m Anannya Patil
+## Hi, I'm Anannya Patil
 
-I'm a backend-focused developer with a strong foundation in Python and C, and hands-on experience in web development and system design. While I have worked on embedded systems and IoT-based models, my primary interest lies in building robust, scalable backend solutions.
+I'm currently focused on backend development, with experience in Python, C, SQL, and Flask. I’ve also worked on full-stack projects and have some exposure to hardware-based systems, though my primary interest lies in building efficient, well-structured backend systems.
 
-### Projects I've worked on (team-based)
-- **JEE Question Solver (C)** – A simple terminal-based logic solver for entrance exam-style questions.  
-- **Sports Website for Government** – Informational web portal using HTML, CSS, JavaScript, and Bootstrap.  
-- **Eco-friendly Textile Identifier** – Firebase-powered website with AI chatbot support for identifying sustainable materials.  
-- **Mini Search Engine** – A Python + Flask-based search engine with SQL database integration.  
-- **Smart Stick for Visually Impaired** – Real-time object detection and audio feedback using ESP32-CAM.  
-- **Automatic Parking Model** – Arduino-based smart parking solution with sensor and LCD display control.
+### Projects (team-based)
+- **JEE Question Solver (C):** A terminal-based solver for basic entrance-style problems.  
+- **Sports Website for Government:** Informational site built using HTML, CSS, JavaScript, and Bootstrap.  
+- **Eco-friendly Textile Identifier:** Firebase-backed website with an AI chatbot to identify sustainable textile options.  
+- **Mini Search Engine:** Python + Flask-based project with SQL integration for indexing and querying content.  
+- **Smart Stick for the Visually Impaired:** ESP32-CAM-based model providing obstacle detection and audio feedback.  
+- **Automatic Parking System:** Arduino-based model using sensors and LCD for slot availability tracking.
 
-### Skills & Technologies
-- **Languages:** Python, C, HTML, CSS, JavaScript, SQL  
-- **Frameworks & Tools:** Flask, Bootstrap, Firebase  
-- **Hardware (experience):** Arduino, ESP32-CAM, sensors  
+### Skills
+- **Languages:** Python, C, SQL, HTML, CSS, JavaScript  
+- **Frameworks/Tools:** Flask, Bootstrap, Firebase  
 - **Version Control:** Git, GitHub  
+- **Hardware Experience:** Arduino, ESP32-CAM, sensors (basic level)
 
-### Goals
-Currently expanding my backend expertise, with a focus on clean architecture, API design, and database optimization.
+---
+
+Currently building on my backend development skills, with an emphasis on clean code, database design, and application logic.
