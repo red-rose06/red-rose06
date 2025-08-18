@@ -1,6 +1,6 @@
 ## Hi, I'm Anannya Patil
 
-I'm currently focused on backend development, with experience in Python, C, SQL, and Flask. I’ve also worked on full-stack projects and have some exposure to hardware-based systems, though my primary interest lies in building efficient, well-structured backend systems.
+I'm currently focused on backend development, with experience in Python, C, C++, SQL, and Flask. I’ve also worked on full-stack projects and have some exposure to hardware-based systems, though my primary interest lies in building efficient, well-structured backend systems.
 
 ### Projects (team-based)
 - **JEE Question Solver (C):** A terminal-based solver for basic entrance-style problems.  
@@ -11,7 +11,7 @@ I'm currently focused on backend development, with experience in Python, C, SQL,
 - **Automatic Parking System:** Arduino-based model using sensors and LCD for slot availability tracking.
 
 ### Skills
-- **Languages:** Python, C, SQL, HTML, CSS, JavaScript  
+- **Languages:** Python, C, C++, SQL, HTML, CSS, JavaScript  
 - **Frameworks/Tools:** Flask, Bootstrap, Firebase  
 - **Version Control:** Git, GitHub  
 - **Hardware Experience:** Arduino, ESP32-CAM, sensors (basic level)
