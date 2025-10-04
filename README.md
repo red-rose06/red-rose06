@@ -19,3 +19,7 @@ I'm currently focused on backend development, with experience in Python, C, C++,
 ---
 
 Currently building on my backend development skills, with an emphasis on clean code, database design, and application logic.
+
+<p align="center">
+  <img src="assets/anime_girl_lookalike_coder.jpg" width="300" alt="Anime Coder">
+</p>
